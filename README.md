@@ -4,6 +4,6 @@
 
 ### Here is a list of iOS modules
 
-[UIKit](http://example.com)
+[UIKit](https://github.com/alxarsnk/SwiftExtension/tree/main/Extensions/UIKit)
 
-[Foundation](http://example.com)
+[Foundation](https://github.com/alxarsnk/SwiftExtension/tree/main/Extensions/Foundation)
